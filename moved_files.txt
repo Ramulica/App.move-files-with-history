@@ -1,0 +1,6 @@
+Total files moved: 5
+csv files moved: 2
+pdf files moved: 0
+pptx files moved: 1
+py files moved: 1
+txt files moved: 1
